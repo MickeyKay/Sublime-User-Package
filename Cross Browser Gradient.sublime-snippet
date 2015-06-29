@@ -1,0 +1,23 @@
+<snippet>
+	<content>
+		<![CDATA[
+background-color: ${1:topcolor};
+background-image: -webkit-gradient(linear, left top, left bottom, from(${1:topcor}), to(${2:bcolor})); /* Saf4+, Chrome */
+background-image: -webkit-linear-gradient(top, ${1:tcolor}, ${2:bcolor}); /* Chrome 10+, Saf5.1+, iOS 5+ */
+background-image:    -moz-linear-gradient(top, ${1:tcolor}, ${2:bcolor}); /* FF3.6 */
+background-image:     -ms-linear-gradient(top, ${1:tcolor}, ${2:bcolor}); /* IE10 */
+background-image:      -o-linear-gradient(top, ${1:tcolor}, ${2:bcolor}); /* Opera 11.10+ */
+background-image:         linear-gradient(top, ${1:tcolor}, ${2:bcolor});
+filter: "progid:DXImageTransform.Microsoft.Gradient(startColorstr=${1:topcolor}, endColorstr=${2:bcolor})";
+-ms-filter: "progid:DXImageTransform.Microsoft.Gradient(startColorstr=${1:topcolor}, endColorstr=${2:bcolor})";
+
+/* PIE.htc - if using, remove 2 'filter' gradients above for proper display in IE7/8 */
+-pie-background: linear-gradient(${1:topcolor}, ${2:bcolor}); /*PIE*/
+behavior: url(/wp-content/themes/balance/PIE.htc);
+		]]>
+	</content>
+ 
+	<tabTrigger>gd</tabTrigger>
+	<scope>source.css</scope>
+	<description>Cross-browser vertical linear gradient</description>
+</snippet>

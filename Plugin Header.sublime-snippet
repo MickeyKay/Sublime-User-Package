@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * ${1:Plugin_Name}
+ * 
+ * @package   ${1:Plugin_Name}
+ * @author    ${2:MIGHTYminnow} <${3:info@mightyminnow.com}>
+ * @license   GPL-2.0+
+ * @link      http://wordpress.org/plugins/${4:plugin-slug}
+ *
+ * Plugin Name:       ${1:Plugin_Name}
+ * Plugin URI:        http://wordpress.org/plugins/${4:plugin-slug}
+ * Description:       ${5:Description}
+ * Version:           ${6:1.0.0}
+ * Author:            ${2:MIGHTYminnow}
+ * Author URI:        ${7:http://mightyminnow.com}
+ * Text Domain:       ${4:plugin-slug}
+ * License:           GPL-2.0+
+ * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ * Domain Path:       /lang
+ */
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ph</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

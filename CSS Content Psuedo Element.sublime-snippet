@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+${1:element}:${2:after} {
+	content: "\0000a0${3:char}"; /* \f0a9 = circle arrow, \f061 = arrow, \f178 = long arrow, \f105 = angle, \f101 = double angle, \f0da = caret */
+	font-family: FontAwesome;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>aft</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>

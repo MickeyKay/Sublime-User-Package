@@ -1,0 +1,37 @@
+{
+	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Autoprefixer",
+		"Browser Refresh",
+		"Clipboard History",
+		"Comment-Snippets",
+		"CSS Completions",
+		"CSS Snippets",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"FileDiffs",
+		"HTMLAttributes",
+		"LiveReload",
+		"LiveStyle",
+		"Local History",
+		"Minifier",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Prefixr",
+		"PhpTidy",
+		"Sass",
+		"ScopeAlways",
+		"SFTP",
+		"TrailingSpaces",
+		"Whitespace",
+		"WordPress",
+		"Wrap Plus",
+		"YUI Compressor"
+	]
+}

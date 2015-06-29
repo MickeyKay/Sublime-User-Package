@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+		<![CDATA[
+echo '<pre>' . print_r(\$${1:var}, true) . '</pre>';
+		]]>
+	</content>
+	<tabTrigger>prr</tabTrigger>
+	<description>Formatted print_r()</description>
+</snippet>
