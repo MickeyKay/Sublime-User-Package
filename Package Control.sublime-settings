@@ -7,6 +7,7 @@
 	[
 		"Alignment",
 		"Autoprefixer",
+		"BracketHighlighter",
 		"Browser Refresh",
 		"Clipboard History",
 		"Comment-Snippets",
@@ -23,8 +24,8 @@
 		"Minifier",
 		"Nettuts+ Fetch",
 		"Package Control",
-		"Prefixr",
 		"PhpTidy",
+		"Prefixr",
 		"Sass",
 		"ScopeAlways",
 		"SFTP",

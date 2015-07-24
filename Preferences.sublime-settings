@@ -6,5 +6,8 @@
 	[
 		"Vintage"
 	],
-	"remember_open_files": false
+	"remember_open_files": false,
+
+	// Set to false to disable detection of tabs vs. spaces on load
+    "detect_indentation": false
 }
