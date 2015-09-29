@@ -1,8 +1,6 @@
 {
 	"auto_upgrade_last_run": null,
-	"in_process_packages":
-	[
-	],
+	"bootstrapped": true,
 	"installed_packages":
 	[
 		"Alignment",
@@ -25,7 +23,6 @@
 		"Nettuts+ Fetch",
 		"Package Control",
 		"PhpTidy",
-		"Prefixr",
 		"Sass",
 		"ScopeAlways",
 		"SFTP",

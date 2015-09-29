@@ -1,13 +1,12 @@
 {
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"detect_indentation": false,
 	"font_size": 15.0,
 	"ignored_packages":
 	[
+		"Prefixr",
 		"Vintage"
 	],
-	"remember_open_files": false,
-
-	// Set to false to disable detection of tabs vs. spaces on load
-    "detect_indentation": false
+	"remember_open_files": false
 }
