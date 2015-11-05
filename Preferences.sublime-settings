@@ -5,6 +5,8 @@
 	"font_size": 15.0,
 	"ignored_packages":
 	[
+		"Clipboard History",
+		"PhpTidy",
 		"Prefixr",
 		"Vintage"
 	],
