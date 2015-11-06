@@ -1,9 +1,14 @@
 {
 	"auto_upgrade_last_run": null,
 	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"Clipboard History"
+	],
 	"installed_packages":
 	[
 		"Alignment",
+		"AlignTab",
 		"Autoprefixer",
 		"BracketHighlighter",
 		"Browser Refresh",
