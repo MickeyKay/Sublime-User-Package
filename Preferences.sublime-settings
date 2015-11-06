@@ -6,6 +6,10 @@
 	"ignored_packages":
 	[
 		"Clipboard History",
+<<<<<<< HEAD
+=======
+		"PhpTidy",
+>>>>>>> 00e0134d4aa6bc3feab2b1739cde272d288946d1
 		"Prefixr",
 		"Vintage"
 	],

@@ -3,7 +3,12 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+<<<<<<< HEAD
 		"Clipboard History"
+=======
+		"Clipboard History",
+		"PhpTidy"
+>>>>>>> 00e0134d4aa6bc3feab2b1739cde272d288946d1
 	],
 	"installed_packages":
 	[
