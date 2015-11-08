@@ -1,0 +1,40 @@
+<snippet>
+	<content><![CDATA[
+// Debouncing function from John Hann.
+// http://unscriptable.com/index.php/2009/03/20/debouncing-javascript-methods/
+var debounce = function( func, threshold ) {
+
+	// The timer
+	var timeout;
+
+	return function debounced() {
+
+		// Store the passed in function and args.
+		var obj = this;
+		var args = arguments;
+
+		// This is the callback that the timer triggers when debouncing is complete.
+		function delayed() {
+
+			// We have successfully debounced, trigger the function.
+			func.apply( obj, args );
+
+			// And clear the timer.
+			timeout = null;
+		}
+
+		// If the timer is active, clear it.
+		if ( timeout ) {
+			clearTimeout( timeout );
+		}
+
+		// Set the timer to 50ms and have it call delayed() when it completes.
+		timeout = setTimeout( delayed, threshold || 50 );
+	};
+};
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>debounce</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>
