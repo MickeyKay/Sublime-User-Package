@@ -21,6 +21,11 @@
 	/**
 	 * Reveal current file in sidebar.
 	 */
-	 { "keys": ["super+shift+l"], "command": "reveal_in_side_bar"}
+	 { "keys": ["ctrl+shift+l"], "command": "reveal_in_side_bar"},
+
+	 /**
+	  * Alignment
+	  */
+	 { "keys": ["super+alt+a"], "command": "alignment" }
 
 ]
