@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[error_log( print_r(\$${1:var}, true) );]]>
+	</content>
+	<tabTrigger>el</tabTrigger>
+	<description>error_log() with print_r()</description>
+</snippet>

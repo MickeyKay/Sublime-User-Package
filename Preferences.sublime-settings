@@ -5,10 +5,18 @@
 	"font_size": 15.0,
 	"ignored_packages":
 	[
-		"Clipboard History",
-		"PhpTidy",
-		"Prefixr",
+		"Alignment",
+		"AlignTab",
+		"BracketHighlighter",
+		"Browser Refresh",
+		"Comment-Snippets",
+		"CSS Completions",
+		"CSS Snippets",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"HTMLAttributes",
+		"LiveReload",
 		"Vintage"
-	],
-	"remember_open_files": false
+	]
 }

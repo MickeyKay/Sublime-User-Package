@@ -1,10 +1,7 @@
 {
-	"auto_upgrade_last_run": null,
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Clipboard History",
-		"PhpTidy"
 	],
 	"installed_packages":
 	[
@@ -27,6 +24,7 @@
 		"Local History",
 		"Minifier",
 		"Nettuts+ Fetch",
+		"Origami",
 		"Package Control",
 		"PhpTidy",
 		"Sass",
