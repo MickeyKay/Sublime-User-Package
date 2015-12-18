@@ -1,7 +1,7 @@
 [
 	{ "keys": ["super+shift+r"], "command": "reindent"},
 	{ "keys": ["super+shift+\\"], "command": "prompt_add_folder" },
-	{ "keys": ["super+shift+a"], "command": "save_project_as" }, 
+	{ "keys": ["super+shift+a"], "command": "save_project_as" },
 
 	// Line wrapping
 	{ "keys": ["alt+w"], "command": "wrap_lines_plus", "args": {"width": 70}},
