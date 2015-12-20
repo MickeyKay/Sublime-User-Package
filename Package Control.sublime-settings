@@ -2,7 +2,8 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Clipboard History"
+		"Clipboard History",
+		"PhpTidy"
 	],
 	"installed_packages":
 	[

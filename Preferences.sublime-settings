@@ -2,10 +2,9 @@
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"detect_indentation": false,
-	"font_size": 13.0,
+	"font_size": 14.0,
 	"ignored_packages":
 	[
-		"Alignment",
 		"AlignTab",
 		"BracketHighlighter",
 		"Browser Refresh",
@@ -13,8 +12,10 @@
 		"Comment-Snippets",
 		"CSS Completions",
 		"CSS Snippets",
+		"FileDiffs",
 		"HTMLAttributes",
-		"LiveReload",
+		"PhpTidy",
 		"Vintage"
-	]
+	],
+	"word_wrap": true
 }
