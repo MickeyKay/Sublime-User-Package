@@ -2,7 +2,7 @@
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"detect_indentation": false,
-	"font_size": 15.0,
+	"font_size": 13.0,
 	"ignored_packages":
 	[
 		"Alignment",
@@ -13,8 +13,6 @@
 		"Comment-Snippets",
 		"CSS Completions",
 		"CSS Snippets",
-		"DocBlockr",
-		"FileDiffs",
 		"HTMLAttributes",
 		"LiveReload",
 		"Vintage"

@@ -91,7 +91,7 @@
   //  * @return  {[Type]}       description
   //  */
   "jsdocs_min_spaces_between_columns": 1,
-  
+
   // indicates whether the @method tag should be added automatically
   "jsdocs_autoadd_method_tag": false,
 
@@ -109,5 +109,5 @@
   "jsdocs_override_js_var": false,
 
   // If set to true, an extra line break is added after the end of a docblock to separate it from the code.
-  "jsdocs_newline_after_block": false 
+  "jsdocs_newline_after_block": false
 }
