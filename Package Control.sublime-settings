@@ -7,6 +7,7 @@
 	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
 		"Alignment",
 		"Autoprefixer",
 		"BracketHighlighter",
@@ -15,8 +16,12 @@
 		"Comment-Snippets",
 		"CSS Completions",
 		"CSS Snippets",
+		"DiffView",
+		"Diffy",
 		"DocBlockr",
+		"EasyDiff",
 		"Emmet",
+		"ExtendedTabSwitcher",
 		"FileDiffs",
 		"HTMLAttributes",
 		"LESS",
@@ -26,6 +31,7 @@
 		"Nettuts+ Fetch",
 		"Origami",
 		"Package Control",
+		"php-grammar",
 		"PhpTidy",
 		"Sass",
 		"ScopeAlways",
