@@ -24,7 +24,7 @@
   //  *   massa, sit amet adipiscing dolor.
   //  * @return {[Type]}
   //  */
-  "jsdocs_indentation_spaces_same_para": 2,
+  "jsdocs_indentation_spaces_same_para": 1,
 
   // whether the words following the @tags should align.
   // Possible values are 'no', 'shallow', 'deep'
