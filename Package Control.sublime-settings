@@ -2,8 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Clipboard History",
-		"PhpTidy"
+		"Clipboard History"
 	],
 	"installed_packages":
 	[
@@ -26,6 +25,7 @@
 		"Emmet",
 		"ExtendedTabSwitcher",
 		"FileDiffs",
+		"GitGutter",
 		"HTML Minifier",
 		"HTMLAttributes",
 		"HyperClick",
@@ -39,12 +39,15 @@
 		"Nettuts+ Fetch",
 		"Origami",
 		"Package Control",
+		"PHP Companion",
 		"php-grammar",
 		"Phpcs",
 		"PhpTidy",
+		"ReactJS",
 		"Sass",
 		"ScopeAlways",
 		"SFTP",
+		"Six - Future JavaScript Syntax",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-phpcs",

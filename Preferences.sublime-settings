@@ -10,17 +10,8 @@
 	"font_size": 15.0,
 	"ignored_packages":
 	[
-		"AlignTab",
-		"BracketHighlighter",
-		"Browser Refresh",
 		"Clipboard History",
-		"Comment-Snippets",
-		"CSS Completions",
-		"CSS Snippets",
-		"FileDiffs",
-		"HTMLAttributes",
 		"PHP",
-		"PhpTidy",
 		"Vintage"
 	],
 	"trim_trailing_white_space_on_save": false,
