@@ -44,7 +44,7 @@
   // Any additional boilerplate tags which should be added to each block. Should be an array of strings.
   // Note that this only applies when a docblock is opened directly preceding a function.
   // Tab points can be added by using snippet syntax, eg: ${1:default text}
-  "jsdocs_extra_tags": ["@since ${1:1.0.0}"],
+  "jsdocs_extra_tags": [],
 
   // If extra tags are defined, by default they go between the description and the param/return tags. If this is set to
   // true, the extra tags are placed at the very end.
@@ -90,7 +90,7 @@
   //  *
   //  * @return  {[Type]}       description
   //  */
-  "jsdocs_min_spaces_between_columns": 1,
+  "jsdocs_min_spaces_between_columns": 2,
 
   // indicates whether the @method tag should be added automatically
   "jsdocs_autoadd_method_tag": false,
