@@ -1,13 +1,19 @@
 {
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"detect_indentation": false,
-	"font_size": 14.0,
+	"detect_indentation": true,
+	"folder_exclude_patterns":
+	[
+		".deps",
+		".git"
+	],
+	"font_size": 15.0,
 	"ignored_packages":
 	[
 		"Clipboard History",
 		"PHP",
 		"Vintage"
 	],
+	"trim_trailing_white_space_on_save": false,
 	"word_wrap": true
 }

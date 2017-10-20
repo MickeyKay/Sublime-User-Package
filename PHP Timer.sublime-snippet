@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+\$time_pre = microtime(true);
+// Code to time
+\$time_post = microtime(true);
+\$exec_time = \$time_post - \$time_pre;
+error_log( 'Time: ' . print_r( \$exec_time, true ) );
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>timer</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>
