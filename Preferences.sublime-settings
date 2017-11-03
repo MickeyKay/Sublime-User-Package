@@ -12,6 +12,7 @@
 	[
 		"Clipboard History",
 		"PHP",
+		"PhpTidy",
 		"Vintage"
 	],
 	"trim_trailing_white_space_on_save": false,

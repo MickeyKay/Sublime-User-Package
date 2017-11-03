@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+className={classNames([
+  '${1:non-nds-class}',
+  classes([
+    '${2:nds-class}'
+  ]),
+])}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>className</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js, source.jsx</scope>
+</snippet>
