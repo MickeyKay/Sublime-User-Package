@@ -3,7 +3,7 @@
 className={classNames([
   '${1:non-nds-class}',
   classes([
-    '${2:nds-class}'
+    '${2:nds-class}',
   ]),
 ])}
 ]]></content>
