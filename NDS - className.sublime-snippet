@@ -1,12 +1,16 @@
 <snippet>
-	<content><![CDATA[
-className={classNames([
-  '${1:non-nds-class}',
-  classes([
-    '${2:nds-class}',
-  ]),
-])}
-]]></content>
+<content>
+<![CDATA[
+
+  className={classNames([
+    '${1:non-nds-class}',
+    classes([
+      '${2:nds-class}',
+    ]),
+  ])}
+>
+]]>
+</content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>cn</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
