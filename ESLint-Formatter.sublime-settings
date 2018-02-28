@@ -1,0 +1,5 @@
+// Settings in here override those in "ESLint-Formatter/ESLint-Formatter.sublime-settings",
+
+{
+	"config_path": "./.eslintrc",
+}

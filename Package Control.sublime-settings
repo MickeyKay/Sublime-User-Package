@@ -24,6 +24,8 @@
 		"EasyDiff",
 		"EditorConfig",
 		"Emmet",
+		"ESLint",
+		"ESLint-Formatter",
 		"ExtendedTabSwitcher",
 		"FileDiffs",
 		"GitGutter",

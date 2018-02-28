@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+composes: ${1:selector} from "@nerdwallet/base-styles/styles.module.css";
+]]></content>
+	<tabTrigger>comp</tabTrigger>
+	<scope>source.css, source.module.css</scope>
+</snippet>
