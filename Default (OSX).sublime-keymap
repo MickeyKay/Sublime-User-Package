@@ -36,5 +36,11 @@
 	/**
 	 * Find in current selection hotkey.
 	 */
-	{ "keys": ["alt+s"], "command": "toggle_in_selection", "context": { "key": "setting.is_widget", "operator": "equal", "operand": true } }
+	{ "keys": ["alt+s"], "command": "toggle_in_selection", "context": { "key": "setting.is_widget", "operator": "equal", "operand": true } },
+
+	{
+	  "keys": ["super+shift+h"],
+	  "command": "format_eslint"
+	}
+
 ]
