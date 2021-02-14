@@ -7,11 +7,10 @@
 		".deps",
 		".git"
 	],
-	"font_size": 15.0,
+	"font_size": 14,
 	"ignored_packages":
 	[
 		"Clipboard History",
-		"PHP",
 		"Vintage"
 	],
 	"trim_trailing_white_space_on_save": false,

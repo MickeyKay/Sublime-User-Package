@@ -12,7 +12,7 @@
 	 */
 	{ "keys": ["super+shift+j"], "command": "toggle_single_line_css" },
 
-	/**
+ 	/**
 	 * Remove trailing spaces.
 	 */
 	{ "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" },

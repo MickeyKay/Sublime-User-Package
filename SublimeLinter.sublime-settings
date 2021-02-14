@@ -1,0 +1,20 @@
+// SublimeLinter Settings - User
+{
+	"linters": {
+        "phpcs": {
+            "args": "--standard='${folder}/phpcs.xml'",
+            "styles": [
+                 {
+                     "icon": "triangle"
+                 }
+            ]
+        }
+    },
+    "paths": {
+        "linux": [],
+        "osx": [
+            "~/.composer/vendor/bin"
+        ],
+        "windows": []
+    }
+}
