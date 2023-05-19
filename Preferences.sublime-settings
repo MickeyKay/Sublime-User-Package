@@ -5,14 +5,14 @@
 	"folder_exclude_patterns":
 	[
 		".deps",
-		".git"
+		".git",
+		"node_modules"
 	],
 	"font_size": 14,
 	"ignored_packages":
 	[
-		"Clipboard History",
 		"Vintage"
 	],
 	"trim_trailing_white_space_on_save": false,
-	"word_wrap": true
+	"word_wrap": true,
 }

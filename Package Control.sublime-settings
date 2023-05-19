@@ -1,9 +1,6 @@
 {
 	"bootstrapped": true,
-	"in_process_packages":
-	[
-		"Clipboard History"
-	],
+	"in_process_packages": [],
 	"installed_packages":
 	[
 		"1337 Color Scheme",
@@ -30,6 +27,11 @@
 		"HTMLAttributes",
 		"HyperClick",
 		"LESS",
+		"ImportHelper",
+		"ImportJS",
+		"JSON Reindent",
+		"JSONLint",
+		"Less",
 		"LiveReload",
 		"LiveStyle",
 		"Local History",
@@ -47,6 +49,7 @@
 		"Sass",
 		"ScopeAlways",
 		"SFTP",
+		"Simple JSX",
 		"Six - Future JavaScript Syntax",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
@@ -56,6 +59,5 @@
 		"Whitespace",
 		"WordPress",
 		"Wrap Plus",
-		"YUI Compressor"
-	]
+	],
 }
