@@ -8,11 +8,12 @@
 		".git",
 		"node_modules"
 	],
-	"font_size": 14,
+	"font_size": 12,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
 	],
 	"trim_trailing_white_space_on_save": false,
 	"word_wrap": true,
+	"index_files": true,
 }

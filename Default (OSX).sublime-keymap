@@ -41,6 +41,26 @@
 	{
 	  "keys": ["super+shift+h"],
 	  "command": "format_eslint"
-	}
+	},
+
+	/**
+	 * Import Helper
+	 * https://github.com/unlight/sublime-import-helper
+	 */
+	{
+        "keys": ["ctrl+alt+i"],
+        "command": "insert_import",
+        "context": [
+            { "key": "selector", "operator": "equal", "operand": "source.ts, source.ts.unittest, source.tsx, source.js, source.jsx" }
+        ]
+    },
+
+    {
+        "keys": ["alt+i"],
+        "command": "list_imports",
+        "context": [
+            { "key": "selector", "operator": "equal", "operand": "source.ts, source.ts.unittest, source.tsx, source.js, source.jsx" }
+        ]
+    },
 
 ]
