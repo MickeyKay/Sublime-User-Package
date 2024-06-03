@@ -18,7 +18,7 @@
 	    "typescript.inlayHints.includeInlayFunctionParameterTypeHints": true,
 	    "typescript.inlayHints.includeInlayParameterNameHints": "none",
 	    "typescript.inlayHints.includeInlayParameterNameHintsWhenArgumentMatchesName": true,
-	    "typescript.inlayHints.includeInlayPropertyDeclarationTypeHints": true,
+	    //"typescript.inlayHints.includeInlayPropertyDeclarationTypeHints": true,
 	    "typescript.inlayHints.includeInlayVariableTypeHints": true,
  	}
 }

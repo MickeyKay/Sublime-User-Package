@@ -63,13 +63,16 @@
         ]
     },
 
+    // LSP / TypeScript
     {
-        "keys": ["alt+shift+enter"],
-        "command": "lsp_commit_completion_with_opposite_insert_mode",
-        "context": [
-            {"key": "lsp.session_with_capability", "operand": "completionProvider"},
-            {"key": "auto_complete_visible"}
-        ]
+        "keys": ["primary+."],
+        "command": "lsp_code_actions",
+        "context": [{"key": "lsp.session_with_capability", "operand": "codeActionProvider"}]
+    },
+    {
+        "keys": ["primary+alt+k"],
+        "command": "lsp_signature_help_show",
+        "context": [{"key": "lsp.signature_help_available"}]
     },
 
 ]
