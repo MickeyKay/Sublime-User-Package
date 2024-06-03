@@ -2,7 +2,7 @@
 {
 	"show_inlay_hints": true,
 	"lsp_code_actions_on_save": {
-	    // "source.fixAll": true,
-	    // "source.organizeImports": true,
+	    "source.fixAll.eslint": true,
+	    "source.organizeImports.eslint": true,
 	  },
 }
