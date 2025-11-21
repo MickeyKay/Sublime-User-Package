@@ -1,6 +1,5 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"detect_indentation": true,
 	"folder_exclude_patterns":
 	[
@@ -16,4 +15,6 @@
 	"trim_trailing_white_space_on_save": false,
 	"word_wrap": true,
 	"index_files": true,
+	"color_scheme": "Mariana.sublime-color-scheme",
+	"theme": "auto",
 }

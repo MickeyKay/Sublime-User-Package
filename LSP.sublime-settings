@@ -1,8 +1,4 @@
 // Settings in here override those in "LSP/LSP.sublime-settings"
 {
 	"show_inlay_hints": true,
-	"lsp_code_actions_on_save": {
-	    "source.fixAll.eslint": true,
-	    "source.organizeImports.eslint": true,
-	  },
 }

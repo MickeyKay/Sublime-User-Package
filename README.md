@@ -1,11 +1,11 @@
-Sublime Text 2 / Packages / User
+Sublime Text 4 / Packages / User
 ==========================
 
 ## Reference ##
-[https://sublime.wbond.net/docs/syncing](https://sublime.wbond.net/docs/syncing)
+[https://packagecontrol.io/docs/syncing](https://packagecontrol.io/docs/syncing)
 
 ## Usage ##
-Add the contents of this repo to `~/Library/Application Support/Sublime Text 2/Packages/User`
+Add the contents of this repo to `~/Library/Application Support/Sublime Text/Packages/User`. These settings are intended for the current Sublime Text 4 builds (4100+).
 
 ## Description ##
 When copied into a the above directory, these files will:
