@@ -10,7 +10,14 @@
 	"font_size": 14,
 	"ignored_packages":
 	[
+		"Browser Refresh",
+		"Comment-Snippets",
+		"FileDiffs",
+		"LSP",
+		"PhpTidy",
+		"SublimeLinter",
 		"Vintage",
+		"Whitespace",
 	],
 	"trim_trailing_white_space_on_save": false,
 	"word_wrap": true,

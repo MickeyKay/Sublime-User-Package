@@ -1,6 +1,14 @@
 {
 	"bootstrapped": true,
 	"in_process_packages": [
+		"Browser Refresh",
+		"Comment-Snippets",
+		"FileDiffs",
+		"LSP",
+		"Package Control",
+		"PhpTidy",
+		"SublimeLinter",
+		"Whitespace",
 	],
 	"installed_packages":
 	[
